@@ -1,0 +1,19 @@
+c:\users\mka\documents\visual studio 2012\Projects\ClassSon\ClassSon\bin\Debug\ClassSon.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\ClassSon\ClassSon\bin\Debug\ClassSon.exe
+c:\users\mka\documents\visual studio 2012\Projects\ClassSon\ClassSon\bin\Debug\ClassSon.pdb
+c:\users\mka\documents\visual studio 2012\Projects\ClassSon\ClassSon\obj\Debug\ClassSon.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\ClassSon\ClassSon\obj\Debug\ClassSon.exe
+c:\users\mka\documents\visual studio 2012\Projects\ClassSon\ClassSon\obj\Debug\ClassSon.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\bin\Debug\ClassSon.exe.config
+C:\Users\MKA\Desktop\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\obj\Debug\ClassSon.exe
+C:\Users\MKA\Desktop\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\obj\Debug\ClassSon.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\bin\Debug\ClassSon.exe
+C:\Users\MKA\Desktop\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\bin\Debug\ClassSon.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\obj\Debug\ClassSon.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\2) DERSLER\Görsel Programlama\C# Proje ve Notlar OOP\C# OOP\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\bin\Debug\ClassSon.exe.config
+D:\Yeni klasör\2) DERSLER\Görsel Programlama\C# Proje ve Notlar OOP\C# OOP\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\bin\Debug\ClassSon.exe
+D:\Yeni klasör\2) DERSLER\Görsel Programlama\C# Proje ve Notlar OOP\C# OOP\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\bin\Debug\ClassSon.pdb
+D:\Yeni klasör\2) DERSLER\Görsel Programlama\C# Proje ve Notlar OOP\C# OOP\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\obj\Debug\ClassSon.csprojAssemblyReference.cache
+D:\Yeni klasör\2) DERSLER\Görsel Programlama\C# Proje ve Notlar OOP\C# OOP\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\obj\Debug\ClassSon.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\2) DERSLER\Görsel Programlama\C# Proje ve Notlar OOP\C# OOP\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\obj\Debug\ClassSon.exe
+D:\Yeni klasör\2) DERSLER\Görsel Programlama\C# Proje ve Notlar OOP\C# OOP\C# Sınıflar\1) Sinif Yazmaya Giris\ClassSon\obj\Debug\ClassSon.pdb
